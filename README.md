@@ -1,4 +1,5 @@
 # Amazon ECS Solution Blueprints for Terraform
+March 28th, 2023 Worksop https://catalog.workshops.aws/ecs-solution-blueprints/en-US
 
 Welcome to Amazon ECS Solution Blueprints for Terraform!
 
